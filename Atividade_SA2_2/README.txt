@@ -1,4 +1,4 @@
-- Dentro da pasta "Atividade_SA_2_2" existe os códigos dos exercícios.
+- Dentro da pasta "Atividade_SA_2_2" estão os códigos dos exercícios.
 
 - Abrir o arquivo "Atividade_SA_2_2.sln".
 
